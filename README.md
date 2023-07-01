@@ -1,5 +1,5 @@
 
-- 👋, I'm Anushka Singh
+- 👋 I'm Anushka Singh.
 
 - 🌱 I’m currently learning **React JS, AWS, Data Science**
 
