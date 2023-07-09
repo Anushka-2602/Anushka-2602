@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
-<h3 align="center">Data/Business and Cloud Computing enthusiast from India</h3>
+<h3 align="center">Full Stack and Cloud Computing enthusiast from India</h3>
 
 - 🌱 I’m currently learning **React JS, AWS, Data Science**
 
