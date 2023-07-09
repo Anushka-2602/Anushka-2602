@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">Full Stack and Cloud Computing enthusiast from India</h3>
 
-- 🌱 I’m currently learning **React JS, AWS, Data Science**
+- 🌱 I’m currently learning **React JS, AWS**
 
-- 💬 Ask me about **Frontend, Cloud, Tableau, Python and Java**
+- 💬 Ask me about **Frontend, Cloud, Tableau, Python**
 
 - 📫 How to reach me **anushkasrajput26@gmail.com**
 
