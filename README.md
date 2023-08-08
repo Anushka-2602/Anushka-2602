@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React JS, AWS and Data Science**
 
-- 💬 Ask me about **Frontend, Cloud, Tableau, Python**
+- 💬 Ask me about **Frontend, Cloud, Tableau**
 
 - 📫 How to reach me **anushkasrajput26@gmail.com**
 
